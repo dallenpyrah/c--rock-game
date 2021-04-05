@@ -1,0 +1,16 @@
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.exe
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.deps.json
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.runtimeconfig.json
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.runtimeconfig.dev.json
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.dll
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\ref\Rock Game.dll
+C:\source\codeworks\c-sharp\Rock Game\bin\Debug\net5.0\Rock Game.pdb
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.csprojAssemblyReference.cache
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.AssemblyInfoInputs.cache
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.AssemblyInfo.cs
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.csproj.CoreCompileInputs.cache
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.dll
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\ref\Rock Game.dll
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.pdb
+C:\source\codeworks\c-sharp\Rock Game\obj\Debug\net5.0\Rock Game.genruntimeconfig.cache
